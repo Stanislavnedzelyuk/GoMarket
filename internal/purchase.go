@@ -1,4 +1,4 @@
-package cmd
+package internal
 
 type Purchase struct {
 	ID        int // уникальный идентификатор покупки
